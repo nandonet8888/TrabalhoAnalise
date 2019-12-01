@@ -20,8 +20,11 @@ public class ValorDola implements VerificarCotacaoDola{
         }else{
            System.out.println("Dolar Igual" + cotacao.getDolaHoje());
         }
+    
+                
 
 
     }
-    
+        
+        
 }

@@ -18,7 +18,7 @@ public class CotacaoDolar {
         private Double dolaHoje;
         private static CotacaoDolar instanciaUnica;
   private CotacaoDolar(){
-      System.out.println("Cotacao Dolar pode ser verificada somente uma vez");
+      System.out.println("Cotacao Dolar pode ser instaciada somente uma vez");
 
 }
   public synchronized  static CotacaoDolar acessoContacao(){
@@ -59,10 +59,6 @@ public class CotacaoDolar {
     }   
     
     
-    public void historicoCotacao(){
-            for(VerificarCotacaoDola historico:ListaCotacao){
-                historico.NotificaalterarValor(this);
-            }
+ 
     
-    }
 }
