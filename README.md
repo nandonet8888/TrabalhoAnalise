@@ -9,7 +9,7 @@
 <h5>Composite permiti que eu faço o produto simples(unico)e passa ele para composto(carrinho de compras)</h5>
 
 <h4>Porque usar Observer</h4>
-<h5>Dolar fica mudando tem inteiro cabe o projeto em observar quando ele for alterado caso ele seja alterado valor do carrinho tambem vai sofrer alteracao no valor total da compra</h5>
+<h5>Dolar fica mudando tempo inteiro(Todos os dias sofre uma pequena alteração) cabe o projeto em observar quando ele for alterado caso ele seja alterado valor do carrinho tambem vai sofrer alteracao no valor total da compra</h5>
 
 <h4>Porque usar o Singleton</h4>
 <h5>Projeto tem somente uma instancia na classe Cotação do Dolar. Para o acesso  naquela instancia se caso  alterar o valor do dolar e so usar cotacao.setDolaHoje(4.54);</h5>
