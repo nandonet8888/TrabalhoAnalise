@@ -12,7 +12,7 @@
 <h5>Dolar fica mudando tem inteiro cabe o projeto em observar quando ele for alterado caso ele seja alterado valor do carrinho tambem vai sofrer alteracao no valor total da compra</h5>
 
 <h4>Porque usar o Singleton</h4>
-<h5>Ela tera somente uma instancia  na classe Cotação do Dolar. Permitindo assim manter um ponto global de acesso</h5>
+<h5>Projeto tem somente uma instancia na classe Cotação do Dolar. Para o acesso somente naquela instancia se caso  alterar o valor do dolar e so usar o cotacao.setDolaHoje(4.54);</h5>
 
 <h5>Nome: Fernado Henrique</h5>
 <h5>6 Periodo no Curso Sistema De Informaçao</h5>
